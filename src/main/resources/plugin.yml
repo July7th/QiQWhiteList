@@ -1,0 +1,16 @@
+name: QiQWhiteList
+version: v1.0.5
+main: com.github.qiq.qiqwhitelist.main
+api-version: 1.16
+prefix: QiQWL
+load: STARTUP
+authors: [ QiQ ]
+website: www.jcraft.cn
+
+commands:
+  qiqwhitelist:
+    aliases:
+      - "qwl"
+      - "qiqwl"
+    usage: "/qwl add <player-name>" # 用法
+    description: "Add player." # 描述
