@@ -1,5 +1,5 @@
 
-package com.github.qiq.qiqwhitelist;
+package com.github.mcsakuralove.qiqwhitelist;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

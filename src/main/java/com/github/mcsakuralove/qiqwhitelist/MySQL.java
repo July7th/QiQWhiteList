@@ -3,7 +3,7 @@
 // (powered by FernFlower decompiler)
 //
 
-package com.github.qiq.qiqwhitelist;
+package com.github.mcsakuralove.qiqwhitelist;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
